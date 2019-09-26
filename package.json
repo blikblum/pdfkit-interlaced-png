@@ -1,0 +1,11 @@
+{
+  "name": "pdfkit-interlaced-png",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blikblum/pdfkit-interlaced-png.git",
+  "author": "Luiz Américo <luizamericop@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
+}
