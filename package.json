@@ -6,6 +6,12 @@
   "author": "Luiz Américo <luizamericop@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "pdfkit": "^0.10.0"
+    "pdfkit": "^0.10.0",
+    "png-js": "git+https://git@github.com/blikblum/png.js.git#add-interlace",
+    "pngjs": "^3.4.0",
+    "upng-js": "^2.1.0"
+  },
+  "resolutions": {
+    "png-js": "git+https://git@github.com/blikblum/png.js.git#add-interlace"
   }
 }
